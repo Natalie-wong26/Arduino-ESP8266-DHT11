@@ -1,4 +1,5 @@
 # Temperature & Humidity Sensor
+You can view my code in TP2_IoT.ino 
 
 ## Preparation
 Download Arduino IDE here: https://www.arduino.cc/en/software
