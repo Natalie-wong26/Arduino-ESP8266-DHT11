@@ -44,9 +44,10 @@ Material: NodeMCU ESP-8266, DHT-11 Sensor, USB A to Micro USB cable data
    These are my configuration:
    
    ![Step 5-2](https://github.com/Natalie-wong26/Arduino-ESP8266-DHT11/raw/master/Images/Step%205-2.png)
+   
    Note: Make sure to choose the port that's shows on device manager. If the board is not detected, you should install [CH340 driver](https://sparks.gogo.co.nz/ch340.html) first.
    
-6. Write the code and upload the code to the board (-->)
+6. Write the code and upload the code to the board (--> at the top left)
 
    ![Step 6](https://github.com/Natalie-wong26/Arduino-ESP8266-DHT11/raw/master/Images/Step%206.png)
 
@@ -55,4 +56,5 @@ Material: NodeMCU ESP-8266, DHT-11 Sensor, USB A to Micro USB cable data
    ![Step 7](https://github.com/Natalie-wong26/Arduino-ESP8266-DHT11/raw/master/Images/Step%207.png)
 
 8. Done
-   ![Step 8](https://github.com/Natalie-wong26/Arduino-ESP8266-DHT11/raw/master/Images/Step%208.png)
+ 
+   ![Step 8](https://github.com/Natalie-wong26/Arduino-ESP8266-DHT11/raw/master/Images/Step%208.jpg)
